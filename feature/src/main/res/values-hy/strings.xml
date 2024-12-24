@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="feature_2">Ficha 2</string>
-    <string name="string_2">Line 2</string>
-    <string name="string_3">Line 3</string>
+    <string name="feature_2">Фича 2</string>
+    <string name="string_3">Строка 3</string>
+    <string name="string_2">Строка 2</string>
     <plurals name="test_string">
         <item quantity="one">Тест</item>
         <item quantity="other">Тестов</item>
