@@ -3,4 +3,8 @@
     <string name="feature_2">Ficha 2</string>
     <string name="string_2">Line 2</string>
     <string name="string_3">Line 3</string>
+    <plurals name="test_string">
+        <item quantity="one">Тест</item>
+        <item quantity="other">Тестов</item>
+    </plurals>
 </resources>
