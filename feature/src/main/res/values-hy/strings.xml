@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="feature_2">Фича 2</string>
+    <string name="string_3">Строка 3</string>
+    <string name="string_2">Строка 2</string>
+</resources>
