@@ -2,5 +2,5 @@
 <resources>
     <string name="app_name">TestProject</string>
     <string name="feature_1">Picture 1</string>
-    <string name="feature_3">Фича 3</string>
+    <string name="feature_3">Ficha 3</string>
 </resources>
